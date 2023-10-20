@@ -60,7 +60,7 @@ elif port == 9224:
 
 
 def send_to_telegram(message, team):
-    apiToken = '6307222906:AAFSDS1eeig7muwYOT_MHpicTnOR_9Ge2bI'
+    apiToken = '***'
     chatID = '5053481276'
     apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
 

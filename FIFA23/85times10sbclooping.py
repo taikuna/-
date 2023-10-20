@@ -1,5 +1,6 @@
-from sbc.sbc import *
+# FIFA23の85＋10のSBCを無限自動ループするツール　重複するカードを自動で再度SBCに入れて高レートのプレイヤーを引いたらテレグラムBotで報告する仕様
 
+from sbc.sbc import *
 # "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="D:\github\video_editing_tool\Chrome automation\temp"
 # "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9224 --user-data-dir="D:\github\video_editing_tool\Chrome automation\temp1"
 port = 9222

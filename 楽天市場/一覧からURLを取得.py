@@ -1,4 +1,4 @@
-# 1. Import the necessary LIBRARIES
+# 楽天市場から商品名や値段、販売元などを抽出するクローラーツール。　データベースはSQLを使用
 import requests
 from bs4 import BeautifulSoup
 import re
